@@ -20,7 +20,7 @@ export default function Office() {
           
           <div className="relative h-[300px] md:h-[400px] w-full">
             <Image
-              src="/Office.jpg"
+              src="/Office-1.jpg"
               alt="Comfortable therapy seating"
               fill
               className="object-cover rounded-lg shadow-md hover:shadow-xl transition duration-300"
